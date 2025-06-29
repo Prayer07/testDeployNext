@@ -42,8 +42,8 @@ export default function index() {
   {
     id: 6,
     name: "Adaeze",
-    age: 14,
-    dob: "Feb 9 2005",
+    age: 20,
+    dob: "Oct 13 2005",
     image: "/images/Adaeze.jpg",
   },
 ]
